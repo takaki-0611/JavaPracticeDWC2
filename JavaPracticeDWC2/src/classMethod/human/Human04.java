@@ -7,7 +7,7 @@ public class Human04 {
 
   public Human04(String name) {
     this.name = name;
-    Human04.humanCount++
+    Human04.humanCount++;
   }
 
   static public void staticMethodPrint() {
